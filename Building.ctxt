@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ rent()
+comment1.params=
+comment1.target=int\ tax()
+comment2.params=building
+comment2.target=void\ sortByRent(java.util.ArrayList)
+comment3.params=building
+comment3.target=void\ sortByProfit(java.util.ArrayList)
+comment4.params=building
+comment4.target=void\ sortByTax(java.util.ArrayList)
+numComments=5

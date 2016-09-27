@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=u\ r\ e
+comment0.target=ApartmentBuilding(int,\ int,\ boolean)
+comment1.params=
+comment1.target=int\ rent()
+comment2.params=
+comment2.target=int\ tax()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
